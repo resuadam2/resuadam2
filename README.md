@@ -1,6 +1,6 @@
 ### Buenas a todo el mundo 👋
 
-¡Bienvenid@s! Esta cuenta tiene un fin totalmente educativo, ninguno de los proyectos que encontrarás aquí son más que ejemplos sobre distintas tecnologías vistas en ciclos de formación profesional como DAM, DAW, ASIR y SMR. Si estás aquí porque te he dado clase ya sabes como funciona y si estás aquí por casualidad, espero que te sirva de alguna ayuda algo de lo que encuentres por aquí. 
+¡Bienvenid@s! Esta cuenta tiene un fin totalmente educativo, ninguno de los proyectos que encontrarás aquí son más que ejemplos sobre distintas tecnologías vistas en ciclos de formación profesional como DAM, DAW, ASIR y SMR. Si estás aquí porque te he dado clase ya sabes como funciona, y si estás aquí por casualidad, espero que te sirva de alguna ayuda algo de lo que encuentres por aquí. Todo el contenido se puede copiar, modificar y utilizar en dónde y para lo que queráis.
 
 ¡A programar!
 
